@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:38:37 +0800] "GET / HTTP/1.1" 302 - http-bio-8080-exec-1 139
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:40:50 +0800] "GET / HTTP/1.1" 302 - http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:41:46 +0800] "GET / HTTP/1.1" 200 2097 http-bio-8080-exec-8 2266
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:41:46 +0800] "GET /favicon.ico HTTP/1.1" 404 997 http-bio-8080-exec-9 32
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:41:47 +0800] "GET /item-add?_=1524318106767 HTTP/1.1" 200 4653 http-bio-8080-exec-10 124
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:41:47 +0800] "GET /js/kindeditor-4.1.10/kindeditor-all-min.js?_=1524318106768 HTTP/1.1" 200 179915 http-bio-8080-exec-10 28
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:41:48 +0800] "GET /js/kindeditor-4.1.10/lang/zh_CN.js?_=1524318106769 HTTP/1.1" 200 8488 http-bio-8080-exec-10 22
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:41:49 +0800] "POST /item/cat/list HTTP/1.1" 200 261 http-bio-8080-exec-10 686
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:41:50 +0800] "GET /item/param/query/itemcatid/1 HTTP/1.1" 200 48 http-bio-8080-exec-5 40
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:42:07 +0800] "GET /js/kindeditor-4.1.10/plugins/multiimage/images/swfupload.swf?preventswfcaching=1524318126534 HTTP/1.1" 200 12787 http-bio-8080-exec-5 36
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:42:22 +0800] "GET /js/kindeditor-4.1.10/plugins/multiimage/images/swfupload.swf?preventswfcaching=1524318142532 HTTP/1.1" 200 12787 http-bio-8080-exec-5 23
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:42:27 +0800] "POST /pic/upload?dir=image HTTP/1.1" 200 119 http-bio-8080-exec-5 88
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:42:42 +0800] "POST /item/save HTTP/1.1" 200 48 http-bio-8080-exec-8 1939
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:42:44 +0800] "GET / HTTP/1.1" 200 2097 http-bio-8080-exec-8 18
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:42:45 +0800] "GET /item-list?_=1524318164145 HTTP/1.1" 200 6783 http-bio-8080-exec-8 154
+0:0:0:0:0:0:0:1 - - [21/Apr/2018:21:42:45 +0800] "GET /item/list?page=1&rows=30 HTTP/1.1" 200 316 http-bio-8080-exec-8 105
